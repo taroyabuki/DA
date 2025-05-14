@@ -22,7 +22,7 @@
 2|4/16||第2章|[アルゴリズムと計算量](https://colab.research.google.com/github/taroyabuki/DA/blob/master/notebooks/02.ipynb)
 3|4/23||第3章|[初等的整列](https://colab.research.google.com/github/taroyabuki/DA/blob/master/notebooks/03.ipynb)
 4|5/7||第4章|[データ構造](https://colab.research.google.com/github/taroyabuki/DA/blob/master/notebooks/04.ipynb)
-5|5/14|小テスト1|第5章|探索
+5|5/14|小テスト1|第5章|[探索](https://colab.research.google.com/github/taroyabuki/DA/blob/master/notebooks/05.ipynb)
 6|5/21||第6章|再帰・分割統治法
 7|5/28||第7章|高等的整列
 8|6/4||第8章|木
