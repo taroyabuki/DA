@@ -2,5 +2,6 @@ code/
 image/
 /notebooks/*.py
 *.md
+*-split.ipynb
 *-teach.ipynb
 Makefile

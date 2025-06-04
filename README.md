@@ -25,7 +25,7 @@
 5|5/14|小テスト1|第5章|[探索](https://colab.research.google.com/github/taroyabuki/DA/blob/master/notebooks/05.ipynb)
 6|5/21||第6章|[再帰・分割統治法](https://colab.research.google.com/github/taroyabuki/DA/blob/master/notebooks/06.ipynb)
 7|5/28||第7章|[高等的整列](https://colab.research.google.com/github/taroyabuki/DA/blob/master/notebooks/07.ipynb)
-8|6/4||第8章|木
+8|6/4||第8章|[木](https://colab.research.google.com/github/taroyabuki/DA/blob/master/notebooks/08.ipynb)
 9|6/11|小テスト2|第9章|二分探索木
 10|6/18||第10章|ヒープ
 11|6/25||第11章|動的計画法
