@@ -27,7 +27,7 @@
 7|5/28||第7章|[高等的整列](https://colab.research.google.com/github/taroyabuki/DA/blob/master/notebooks/07.ipynb)
 8|6/4||第8章|[木](https://colab.research.google.com/github/taroyabuki/DA/blob/master/notebooks/08.ipynb)
 9|6/11|小テスト2|第9章|[二分探索木](https://colab.research.google.com/github/taroyabuki/DA/blob/master/notebooks/09.ipynb)
-10|6/18||第10章|ヒープ
+10|6/18||第10章|[ヒープ](https://colab.research.google.com/github/taroyabuki/DA/blob/master/notebooks/10.ipynb)
 11|6/25||第11章|動的計画法
 12|7/2||第12章|グラフ
 13|7/9|小テスト3|第13章|重み付きグラフ
